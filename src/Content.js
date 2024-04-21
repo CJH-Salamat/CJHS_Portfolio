@@ -237,7 +237,7 @@ export const content = {
     icon: MdArrowForward,
   },
   Contact: {
-    title: "Contect Me",
+    title: "Contact Me",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
