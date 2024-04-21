@@ -13,12 +13,12 @@ module.exports = {
     },
     extend: {
       colors: {
-        dark_primary: "#06223F",
-        bg_light_primary: "#F5F9FD",
+        dark_primary: "#1C352D",
+        bg_light_primary: "#F0FFF0",
         gray: "#B7C5D3",
       },
       backgroundImage: {
-        primaryLinear: "linear-gradient(180deg, #B6CCF5 0.48%, #D5E3F1 100%)",
+        primaryLinear: "linear-gradient(180deg, #98FB98 0.48%, #004953 100%)",
       },
       dropShadow: {
         primary: "-5px 35px 40px rgba(223, 229, 236, 0.9)",
