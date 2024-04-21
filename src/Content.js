@@ -246,7 +246,7 @@ export const content = {
         link: "mailto:christian.joy.h.salamat@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+63 921 413 2016",
         icon: MdCall,
         link: "",
       },      
