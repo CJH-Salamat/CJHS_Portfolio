@@ -64,7 +64,7 @@ const Skills = () => {
                 />
               </div>
               <div>
-                <h6>{skill.name}</h6>
+                <h6 >{skill.name}</h6>
                 <p className="italic">{skill.para}</p>
               </div>
             </div>

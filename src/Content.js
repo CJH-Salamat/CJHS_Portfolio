@@ -1,5 +1,5 @@
 // import images
-import Hero_person from "./assets/images/Banner/BannerMain3.png";
+import Hero_person from "./assets/images/Banner/BannerMain4.png";
 import Docs from "./assets/docs/Test.pdf";
 
 import HTML from "./assets/images/Skills/HTML5.png";
@@ -65,6 +65,23 @@ export const content = {
     docs: Docs,
     AboutTitle: "ABOUT ME :",
     AboutBody: "Hi! I'm Christian Joy H. Salamat, an aspiring I.T. professional specializing in Web Development. With a passion for crafting exceptional digital experiences, I bring a unique blend of skills and strengths to every project. My keen sense of being Alert ensures that I stay ahead of the curve in the rapidly evolving tech landscape, while my proactive approach allows me to anticipate and address challenges before they arise. Combined with my organizational prowess and meticulous attention to detail, I strive to deliver projects that exceed expectations.",
+    Banner_media: [
+      {
+        Icon_title: "Github",
+        icon: AiFillGithub,
+        link: "https://github.com/CJH-Salamat",
+      },
+      {
+        Icon_title: "LinkedIn",
+        icon: CiLinkedin,
+        link: "https://www.linkedin.com/in/christian-joy-salamat-2331192ba/",
+      },      
+      {
+        Icon_title: "GMail",
+        icon: GrMail,
+        link: "mailto:christian.joy.h.salamat@gmail.com",
+      },
+    ],
   },
   skills: {
     title: "Skills",
