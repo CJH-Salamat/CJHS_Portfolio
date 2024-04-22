@@ -56,10 +56,10 @@ const Banner = () => {
 
           <br />
           
-          <div className="flex flex-col gap-10 lg:mt-10 mt-20">
+          <div className="btn bg-white flex flex-col gap-10 lg:mt-10 mt-20">
             <div
               data-aos="fade-down"
-              className={`btn bg-white flex justify-start gap-5`}
+              className={`flex justify-start gap-5`}
             >
               <h4>{Banner.AboutTitle}</h4>
               
