@@ -184,7 +184,7 @@ export const content = {
           "“A Vite and React JS Powered Portfolio”",
         img: CJPort,
         name: "CJHS-Portfolio",
-        link: "https://cjhs-porfolio.vercel.app",
+        link: "https://cjhs-portfolio.vercel.app",
         Proj_T_stack: [
           {
             StackID: "React.Js",
