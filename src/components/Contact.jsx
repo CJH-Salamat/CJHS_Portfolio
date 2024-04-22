@@ -85,9 +85,9 @@ const Contact = () => {
                 data-aos-delay={i * 200}
                 className="flex items-center gap-2"
               >
-                <h4 className="text-white">{createElement(content.icon)}</h4>
-                <a className="font-Poppins" href={content.link} target="_blank">
-                  {content.text}
+                <a href={content.link} target="_blank">
+                  <h4 className="text-white">{createElement(content.icon)}</h4>
+                  <p className="font-Poppins">{content.text} </p>
                 </a>
               </div>
             ))}
