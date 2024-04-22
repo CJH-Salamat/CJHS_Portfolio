@@ -59,7 +59,7 @@ const Banner = () => {
           <div className="flex flex-col gap-10 lg:mt-10 mt-20">
             <div
               data-aos="fade-down"
-              className={`flex justify-start gap-5`}
+              className={`btn bg-white flex justify-start gap-5`}
             >
               <h4>{Banner.AboutTitle}</h4>
               
@@ -74,7 +74,7 @@ const Banner = () => {
           <br />
           <div className="flex justify-end">
           <a href={Banner.docs} target='_blank'>
-            <button className="btn">{Banner.btnText}</button>
+            <button className="btn bg-white">{Banner.btnText}</button>
           </a>
           </div>
         </div>
