@@ -1,6 +1,6 @@
 // import images
 import Hero_person from "./assets/images/Banner/BannerMain4.png";
-import Docs from "./assets/docs/SALAMAT_ChristianJoy_H_Portfolio.pdf";
+import Docs from "./assets/docs/SALAMAT_Christian_Joy_H_CV.pdf";
 
 import HTML from "./assets/images/Skills/HTML5.png";
 import CSS3 from "./assets/images/Skills/CSS3.png";
